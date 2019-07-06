@@ -10,7 +10,7 @@ import {
     Container
 } from 'reactstrap';
 
-class AppNavbar extends React.Component {
+class AppNavbar extends Component {
     constructor(props) {
         super(props);
         
